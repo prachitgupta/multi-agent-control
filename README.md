@@ -1,2 +1,71 @@
-# multi-agent-control
-cnn and cbf vs lqr based strategy
+# Multi-agent control with safety certificates using cbf
+
+
+## Table of Contents
+1. [Project 1: Title and Brief Description](#project-1-title-and-brief-description)
+2. [Project 2: Title and Brief Description](#project-2-title-and-brief-description)
+3. [Project 3: Title and Brief Description](#project-3-title-and-brief-description)
+
+---
+
+## Project 1: Title and Brief Description
+
+**Description:**  
+A brief overview of what this project accomplishes and its significance.
+
+**Repository Link:**  
+[Link to Project 1 Repository](https://github.com/username/Project1)
+
+**Key Features and Findings:**
+- Feature 1
+- Feature 2
+- Key Finding or Insight
+
+**Technologies Used:**  
+- Python
+- Libraries (e.g., NumPy, pandas)
+- Other relevant tools
+
+---
+
+## Project 2: Title and Brief Description
+
+**Description:**  
+Overview of Project 2.
+
+**Repository Link:**  
+[Link to Project 2 Repository](https://github.com/username/Project2)
+
+**Key Features and Findings:**
+- Feature 1
+- Feature 2
+
+**Technologies Used:**  
+- Technology 1
+- Technology 2
+
+---
+
+## Project 3: Title and Brief Description
+
+**Description:**  
+Overview of Project 3.
+
+**Repository Link:**  
+[Link to Project 3 Repository](https://github.com/username/Project3)
+
+**Key Features and Findings:**
+- Feature 1
+- Feature 2
+
+**Technologies Used:**  
+- Technology 1
+- Technology 2
+
+---
+
+## Summary of Research Insights
+Provide a brief summary of the major insights or outcomes of this research, as it relates to the overarching field.
+
+## Contact
+For more information, feel free to reach out at [your.email@example.com].
