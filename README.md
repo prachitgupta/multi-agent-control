@@ -14,7 +14,7 @@ implementation of : https://arxiv.org/abs/2101.05436.
 
 ---
 
-## Project 2: LLM-based reward shaping
+## LLM-based reward shaping
 
 **Description:**  
 Using llm to shape rewards given to AVs on highway-env by open Gymnasium to make rl agents action resemble humans
