@@ -1,0 +1,3 @@
+[submodule "Reward-shaping-LLM"]
+	path = Reward-shaping-LLM
+	url = https://github.com/prachitgupta/Reward-shaping-with-LLMS
