@@ -20,7 +20,7 @@ implementation of : https://arxiv.org/abs/2101.05436.
 Using llm to shape rewards given to AVs on highway-env by open Gymnasium to make rl agents action resemble humans
 
 **Repository Link:**  
-[Reward shaping claude ](https://github.com/username/Project2)
+[Reward shaping claude ]([https://github.com/username/Project2](https://github.com/prachitgupta/Reward-shaping-with-LLMS/)
 
 
 ---
