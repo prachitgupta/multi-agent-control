@@ -4,7 +4,6 @@
 ## Table of Contents
 1. [Pytorch implementation of jointly learning multi-agent control with control barrier certificates](#project-1-title-and-brief-description)
 2. [Shaping reward function of DQN agents using claude.ai](#project-2-title-and-brief-description)
-3. [Project 3: Title and Brief Description](#project-3-title-and-brief-description)
 
 ---
 
@@ -46,26 +45,7 @@ Overview of Project 2.
 
 ---
 
-## Project 3: Title and Brief Description
 
-**Description:**  
-Overview of Project 3.
-
-**Repository Link:**  
-[Link to Project 3 Repository](https://github.com/username/Project3)
-
-**Key Features and Findings:**
-- Feature 1
-- Feature 2
-
-**Technologies Used:**  
-- Technology 1
-- Technology 2
-
----
-
-## Summary of Research Insights
-Provide a brief summary of the major insights or outcomes of this research, as it relates to the overarching field.
 
 ## Contact
 For more information, feel free to reach out at [prachitgupta30@example.com].
