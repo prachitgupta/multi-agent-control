@@ -7,45 +7,23 @@
 
 ---
 
-## Project 1: Title and Brief Description
+## Learning safe multi-agent control with decentralized neural certificates
 
 **Description:**  
-A brief overview of what this project accomplishes and its significance.
-
-**Repository Link:**  
-[Link to Project 1 Repository](https://github.com/username/Project1)
-
-**Key Features and Findings:**
-- Feature 1
-- Feature 2
-- Key Finding or Insight
-
-**Technologies Used:**  
-- Python
-- Libraries (e.g., NumPy, pandas)
-- Other relevant tools
+implementation of : https://arxiv.org/abs/2101.05436.
 
 ---
 
-## Project 2: Title and Brief Description
+## Project 2: LLM-based reward shaping
 
 **Description:**  
-Overview of Project 2.
+Using llm to shape rewards given to AVs on highway-env by open Gymnasium to make rl agents action resemble humans
 
 **Repository Link:**  
-[Link to Project 2 Repository](https://github.com/username/Project2)
+[Reward shaping claude ](https://github.com/username/Project2)
 
-**Key Features and Findings:**
-- Feature 1
-- Feature 2
-
-**Technologies Used:**  
-- Technology 1
-- Technology 2
 
 ---
-
-
 
 ## Contact
 For more information, feel free to reach out at [prachitgupta30@example.com].
