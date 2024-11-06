@@ -2,8 +2,8 @@
 
 
 ## Table of Contents
-1. [Project 1: Title and Brief Description](#project-1-title-and-brief-description)
-2. [Project 2: Title and Brief Description](#project-2-title-and-brief-description)
+1. [Pytorch implementation of jointly learning multi-agent control with control barrier certificates](#project-1-title-and-brief-description)
+2. [Shaping reward function of DQN agents using claude.ai](#project-2-title-and-brief-description)
 3. [Project 3: Title and Brief Description](#project-3-title-and-brief-description)
 
 ---
@@ -68,4 +68,4 @@ Overview of Project 3.
 Provide a brief summary of the major insights or outcomes of this research, as it relates to the overarching field.
 
 ## Contact
-For more information, feel free to reach out at [your.email@example.com].
+For more information, feel free to reach out at [prachitgupta30@example.com].
